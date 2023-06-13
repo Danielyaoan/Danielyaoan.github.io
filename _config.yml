@@ -1,6 +1,7 @@
 title: Yao An Lee # your name (or website title) here
 logo: "/images/Yao_An_logo.jpg?raw=true" # your photo (or logo) here
-description: > # Machine Learning Engineer/ Data Scientist
+description: >  Machine Learning Engineer/ Data Scientist
+  <br><br>
   Recent graduate with 2 years of experience creating data pipelines, analyzing data dependencies, reducing data processing run-time, devising research and project-based machine learning model, and boosting model performance
   <br><br>
   Second description 
@@ -9,5 +10,5 @@ description: > # Machine Learning Engineer/ Data Scientist
   
   <a href="https://github.com/Danielyaoan">View My GitHub Profile</a> 
   
-remote_theme: pages-themes/minimal@v0.2.0
+#remote_theme: pages-themes/minimal@v0.2.0
 
