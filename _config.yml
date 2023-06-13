@@ -1,13 +1,12 @@
 title: Yao An Lee # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+logo: "/images/Yao_An_logo.jpg?raw=true" # your photo (or logo) here
+description: > # Machine Learning Engineer/ Data Scientist
+  Recent graduate with 2 years of experience creating data pipelines, analyzing data dependencies, reducing data processing run-time, devising research and project-based machine learning model, and boosting model performance
   <br><br>
   Second description 
   <br><br>
   <a href="https://www.linkedin.com/in/yao-an-lee-4848bb1a3/">View My LinkedIn Profile</a> 
+  <a href="https://github.com/Danielyaoan">View My GitHub Profile</a> 
   
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+
+
