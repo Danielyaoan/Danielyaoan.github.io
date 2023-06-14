@@ -11,7 +11,7 @@ description: >
   <br>
   <a href="https://github.com/Danielyaoan">View My GitHub Profile</a> 
   
-theme                  : "minimal-mistakes-jekyll"
+# theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dirt"
 
