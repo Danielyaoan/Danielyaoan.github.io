@@ -2,14 +2,11 @@ title: Yao An Lee
 logo: "/images/Yao_An_logo.jpg?raw=true" 
 description: >  
   Machine Learning Engineer/ Data Scientist
-  <br><br>
+  
   Recent graduate with 2 years of experience creating data pipelines, analyzing data dependencies, reducing data processing run-time, devising research and project-based machine learning model, and boosting model performance
-  <br><br>
-  Second description 
-  <br><br>
+  
   <a href="https://www.linkedin.com/in/yao-an-lee-4848bb1a3/">View My LinkedIn Profile</a> 
-  <br>
-  <b href="https://github.com/Danielyaoan">View My GitHub Profile</b> 
+  <a href="https://github.com/Danielyaoan">View My GitHub Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
