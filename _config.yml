@@ -9,7 +9,7 @@ description: >
   <br><br>
   <a href="https://www.linkedin.com/in/yao-an-lee-4848bb1a3/">View My LinkedIn Profile</a> 
   <br>
-  <a href="https://github.com/Danielyaoan">View My GitHub Profile</a> 
+  <b href="https://github.com/Danielyaoan">View My GitHub Profile</b> 
   
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
