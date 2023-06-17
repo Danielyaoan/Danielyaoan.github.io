@@ -1,8 +1,8 @@
-## Selected projects in ML, DS, and NLP
+## Selected Projects
 
 ---
 
-### Category Name 1 
+### NLP 
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -13,6 +13,32 @@
 
 ---
 [Project 3 Title](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+### Time-Series
+
+---
+
+[Project 1 Title](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+### Computer Vision
+
+---
+
+[Project 1 Title](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+### Data Processing & Analysis
+---
+
+[Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
