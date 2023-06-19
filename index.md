@@ -2,47 +2,59 @@
 
 ---
 
-### NLP 
+### NLP - Resume Matching System
 
 ---
-[Resume Matching System](https://github.com/Danielyaoan/Resume-Matching-System)
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+[View code on Github](https://github.com/Danielyaoan/Resume-Matching-System)
 
 ---
 
-### Time-Series
+### Time-Series - Stock Price Prediction
 
 ---
 
-[Stock Price Prediction](https://github.com/Danielyaoan/Stock-Price-Prediction)
+
 <img src="images/stock price.png?raw=true"/>
+[View code on Github](https://github.com/Danielyaoan/Stock-Price-Prediction)
 
 ---
 
-### Computer Vision
+### Computer Vision - Handwritten Character Recognition
 
 ---
 
-[Handwritten Character Recognition](https://github.com/Danielyaoan/Handwritten-Character-Recognition)
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+[View code on Github](https://github.com/Danielyaoan/Handwritten-Character-Recognition)
 
 ---
 
-[YOLO Object Detection](https://github.com/Danielyaoan/Transfer-Learning-of-Xception-and-Yolov5)
+### Computer Vision - YOLO Object Detection
+
+---
+
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+[View code on Github](https://github.com/Danielyaoan/Transfer-Learning-of-Xception-and-Yolov5)
 
 ---
 
-### Data Processing & Analysis
+### Data Processing & Analysis - Sales Prediction & Analysis
 ---
 
-[Sales Prediction & Analysis](https://github.com/Danielyaoan/Supermarket-Sales)
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+[View code on Github](https://github.com/Danielyaoan/Supermarket-Sales)
 
 ---
+### Data Processing & Analysis - Features Dimensionality Reduction
+---
 
-[Features Dimensionality Reduction](https://github.com/Danielyaoan/Dimensionality-Reductions)
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+[View code on Github](https://github.com/Danielyaoan/Dimensionality-Reductions)
 
 ---
 
