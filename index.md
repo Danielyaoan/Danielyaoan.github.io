@@ -7,7 +7,7 @@
 ---
 
 
-<video controls>
+<video controls width="500" height="300">
   <source src="images/Resume_Matching_System.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
