@@ -11,6 +11,13 @@ Resume Matching System allows users to match their resume with potential jobs in
   <source src="images/Resume_Matching_System.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+![Python](https://img.shields.io/badge/Python-03080c?style=for-the-badge&logo=python&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-03080c?style=for-the-badge&logo=anaconda&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-03080c?style=for-the-badge&logo=jupyter&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-03080c?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/huggingface-03080c?style=for-the-badge&logo=huggingface&logoColor=white)
+
 [View code on GitHub](https://github.com/Danielyaoan/Resume-Matching-System)
 
 ---
