@@ -47,7 +47,7 @@ Forecasting stock prices is an essential automated endeavor within the realm of 
 
 ---
 
-
+In this project, I collected, processed, and analyzed over 10k handwritten samples and devised a CNN classification models with PandaNet as framework to recognize complex handwritten characters.
 
 <img src="images/character.png?raw=true" width="500" height="200"/>
 
