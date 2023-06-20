@@ -26,7 +26,7 @@ Resume Matching System allows users to match their resume with potential jobs in
 
 ---
 
-Stock price prediction is a crucial automated task in financial technology where we expect to predict future stock price or trend in high accuracy. In this project, I trained a predictor with TensorFlow to fine-tuned a LSTM neural network model.
+Forecasting stock prices is an essential automated endeavor within the realm of financial technology, with the objective of accurately predicting future stock prices or trends. To accomplish this, I trained a predictor with TensorFlow to fine-tune a LSTM neural network model.
 
 <img src="images/stock price.png?raw=true" width="250" height="200"/><img src="images/stock price2.png?raw=true" width="250" height="200"/>
 
