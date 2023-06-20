@@ -66,7 +66,7 @@ In this project, I collected, processed, and analyzed over 10k handwritten sampl
 
 
 
-<img src="images/yolo.png?raw=true" width="500" height="200"/>
+<img src="images/yolo.png?raw=true" width="500" height="300"/>
 [View code on GitHub](https://github.com/Danielyaoan/Transfer-Learning-of-Xception-and-Yolov5)
 
 ---
