@@ -12,12 +12,11 @@ Resume Matching System allows users to match their resume with potential jobs in
   Your browser does not support the video tag.
 </video>
 
-<img src="https://img.shields.io/badge/Python-03080c?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" style="width: 100px; height: 40px;">
-![Python](https://img.shields.io/badge/Python-03080c?style=for-the-badge&logo=python&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-03080c?style=for-the-badge&logo=anaconda&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-03080c?style=for-the-badge&logo=jupyter&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/chatGPT-03080c?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/huggingface-03080c?style=for-the-badge&logo=huggingface&logoColor=white)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
+[![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
+[![](https://img.shields.io/badge/Anaconda-white?logo=anacondah)](#) 
+[![](https://img.shields.io/badge/chatGPT-white?logo=openai)](#) 
+[![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
 
 [View code on GitHub](https://github.com/Danielyaoan/Resume-Matching-System)
 
