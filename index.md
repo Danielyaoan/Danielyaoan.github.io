@@ -49,7 +49,7 @@ Forecasting stock prices is an essential automated endeavor within the realm of 
 
 
 
-<img src="images/character.png?raw=true"/>
+<img src="images/character.png?raw=true" width="500" height="200"/>
 [View code on GitHub](https://github.com/Danielyaoan/Handwritten-Character-Recognition)
 
 ---
