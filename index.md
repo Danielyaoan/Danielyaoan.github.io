@@ -17,6 +17,7 @@ Resume Matching System allows users to match their resume with potential jobs in
 [![](https://img.shields.io/badge/Anaconda-white?logo=anaconda)](#) 
 [![](https://img.shields.io/badge/chatGPT-white?logo=openai&logoColor=white)](#) 
 [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
+[![](https://img.shields.io/badge/HTML-white?logo=html&logoColor=white)](#) 
 
 [View code on GitHub](https://github.com/Danielyaoan/Resume-Matching-System)
 
