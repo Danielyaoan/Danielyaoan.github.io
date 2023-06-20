@@ -4,7 +4,6 @@
 
 ### NLP - Resume Matching System
 
----
 Resume Matching System allows users to match their resume with potential jobs in the job market. Resumes and job descriptions extraction and summarization are done with GPT-3.5 text-davinci-003 model. Matching similarity score are computed with paraphrase-MiniLM-L3-v2 model.
 
 <video controls width="500" height="300">
@@ -25,7 +24,6 @@ Resume Matching System allows users to match their resume with potential jobs in
 
 ### Time-Series - Stock Price Prediction
 
----
 
 Forecasting stock prices is an essential automated endeavor within the realm of financial technology, with the objective of accurately predicting future stock prices or trends. To accomplish this, I trained a predictor with TensorFlow to fine-tune a LSTM neural network model.
 
@@ -45,7 +43,6 @@ Forecasting stock prices is an essential automated endeavor within the realm of 
 
 ### Computer Vision - Handwritten Character Recognition
 
----
 
 In this project, I collected, processed, and analyzed over 10k handwritten samples and devised a CNN classification models with PandaNet as framework to recognize complex handwritten characters.
 
@@ -67,16 +64,14 @@ In this project, I collected, processed, and analyzed over 10k handwritten sampl
 
 ### Computer Vision - YOLO Object Detection
 
----
 
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/yolo.png?raw=true" width="500" height="200"/>
 [View code on GitHub](https://github.com/Danielyaoan/Transfer-Learning-of-Xception-and-Yolov5)
 
 ---
 
 ### Data Processing & Analysis - Sales Prediction & Analysis
----
 
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -84,7 +79,6 @@ In this project, I collected, processed, and analyzed over 10k handwritten sampl
 
 ---
 ### Data Processing & Analysis - Features Dimensionality Reduction
----
 
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
