@@ -5,7 +5,7 @@
 ### NLP - Resume Matching System
 
 ---
-
+Resume Matching System allows users to match their resume with potential jobs in the job market. Resumes and job descriptions extraction and summarization are done with GPT-3.5 text-davinci-003 model. Matching similarity score are computed with paraphrase-MiniLM-L3-v2 model.
 
 <video controls width="500" height="300">
   <source src="images/Resume_Matching_System.mp4" type="video/mp4">
