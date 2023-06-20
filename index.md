@@ -7,10 +7,10 @@
 ---
 
 
-
-<source src="images/Resume_Matching_System.mp4" type="video/mp4">
-
-
+<video controls>
+  <source src="images/Resume_Matching_System.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 [View code on GitHub](https://github.com/Danielyaoan/Resume-Matching-System)
 
 ---
