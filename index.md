@@ -64,7 +64,7 @@ In this project, I collected, processed, and analyzed over 10k handwritten sampl
 
 ### Computer Vision - YOLO Object Detection
 
-
+Object detection has been one of the most important application for computer vision, espically in the field of autonomous vehicle. In this project, I trained a solid objection detection model with high Mean Average Precision by fine-tuning YOLOv5 architecture.
 
 <img src="images/yolo.png?raw=true" width="500" height="300"/>
 
