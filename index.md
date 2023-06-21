@@ -100,25 +100,12 @@ In this project, I analyzed supermarket sales data with Scikit-Learn Pipeline to
 ---
 ### Data Processing & Analysis - Features Dimensionality Reduction
 
+Computational expense is a significant limitation when dealing with large data in ML problems. To restrict the run-time of model while maintain the performance, I experimented with several feature selection and extraction techniques to gain insights into different selections.
 
-<img src="images/features.png?raw=true" width="500" height="200"/>
+<img src="images/features.png?raw=true" width="500" height="150"/>
 [View code on GitHub](https://github.com/Danielyaoan/Dimensionality-Reductions)
 
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
