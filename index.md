@@ -101,7 +101,7 @@ In this project, I analyzed supermarket sales data with Scikit-Learn Pipeline to
 ### Data Processing & Analysis - Features Dimensionality Reduction
 
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/features.png?raw=true" width="500" height="200"/>
 [View code on GitHub](https://github.com/Danielyaoan/Dimensionality-Reductions)
 
 ---
